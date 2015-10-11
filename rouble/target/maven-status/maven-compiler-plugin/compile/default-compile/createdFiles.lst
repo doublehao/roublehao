@@ -1,0 +1,2 @@
+com\rouble\worker\ZKWorker.class
+com\rouble\job\ValidateMysqlJob.class
