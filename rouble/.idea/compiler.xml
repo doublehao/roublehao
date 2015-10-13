@@ -25,6 +25,8 @@
         <module name="rouble" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rouble" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-
