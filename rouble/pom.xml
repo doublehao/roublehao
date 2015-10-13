@@ -35,7 +35,6 @@
       <artifactId>[the artifact id of the block to be mounted]</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency-->
-
       <dependency>
           <groupId>org.apache.zookeeper</groupId>
           <artifactId>zookeeper</artifactId>
@@ -96,11 +95,6 @@
           <groupId>commons-lang</groupId>
           <artifactId>commons-lang</artifactId>
           <version>2.4</version>
-      </dependency>
-      <dependency>
-          <groupId>mysql</groupId>
-          <artifactId>mysql-connector-java</artifactId>
-          <version>5.1.14</version>
       </dependency>
       <dependency>
           <groupId>javax.servlet</groupId>
